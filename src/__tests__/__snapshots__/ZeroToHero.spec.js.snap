@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`the pizza data is correct 1`] = `
+Array [
+  Object {
+    "desc": "The pan in which it is baked gives the pizza its characteristically high edge which provides ample space for large amounts of cheese and a chunky tomato sauce.",
+    "id": 1,
+    "image": "/images/chicago-pizza.jpg",
+    "name": "Chicago Pizza",
+    "price": 9,
+  },
+  Object {
+    "desc": "This style of pizza is prepared with simple and fresh ingredients: a basic dough, raw tomatoes, fresh mozzarella cheese, fresh basil, and olive oil. A fantastic original pizza.",
+    "id": 2,
+    "image": "/images/neapolitan-pizza.jpg",
+    "name": "Neapolitan Pizza",
+    "price": 7,
+  },
+  Object {
+    "desc": "New York-style pizza has slices that are large and wide with a thin crust that is foldable yet crispy. It is traditionally topped with tomato sauce and mozzarella cheese.",
+    "id": 3,
+    "image": "/images/ny-pizza.jpg",
+    "name": "New York Pizza",
+    "price": 8,
+  },
+  Object {
+    "desc": "Sicilian pizza is pizza prepared in a manner that originated in Sicily, Italy. Sicilian pizza is also known as sfincione or focaccia with toppings. A great tasteful pizza all around.",
+    "id": 4,
+    "image": "/images/sicilian-pizza.jpg",
+    "name": "Sicilian Pizza",
+    "price": 9,
+  },
+]
+`;
